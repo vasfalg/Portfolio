@@ -234,11 +234,11 @@ article.active {
   text-transform: capitalize;
 }
 
-.h2 { font-size: var(--fs-1); }
+.h2 { font-size: var(--fs-1); color: var(--dark-green)}
 
-.h3 { font-size: var(--fs-2); }
+.h3 { font-size: var(--fs-2); color: var(--dark-green)}
 
-.h4 { font-size: var(--fs-4); }
+.h4 { font-size: var(--fs-4); color: var(--sage)}
 
 .h5 {
   font-size: var(--fs-7);
