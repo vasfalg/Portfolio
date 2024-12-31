@@ -28,6 +28,11 @@
     hsl(46, 87%, 95%) 3%,
     hsl(46, 87%, 98%) 97%
   );
+  --bg-gradient-white: linear-gradient(
+  to bottom right,
+  hsl(0, 0%, 100%) 10%,
+  hsl(0, 0%, 98%) 90%
+  );
   --bg-gradient-jet: linear-gradient(
     to bottom right,
     hsla(240, 1%, 18%, 0.251) 0%,
@@ -333,7 +338,7 @@ main {
 }
 
 .avatar-box {
-  background: var(--bg-gradient-onyx);
+  background: var(--bg-gradient-off-white);
   border-radius: 20px;
 }
 
@@ -589,7 +594,7 @@ main {
   top: 0;
   left: 0;
   transform: translate(15px, -25px);
-  background: var(--bg-gradient-onyx);
+  background: var(--bg-gradient-off-white);
   border-radius: 14px;
   box-shadow: var(--shadow-1);
 }
@@ -697,7 +702,7 @@ main {
 .modal-close-btn ion-icon { --ionicon-stroke-width: 50px; }
 
 .modal-avatar-box {
-  background: var(--bg-gradient-onyx);
+  background: var(--bg-gradient-off-white);
   width: max-content;
   border-radius: 14px;
   margin-bottom: 15px;
