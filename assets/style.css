@@ -267,7 +267,7 @@ article.active {
 }
 
 .has-scrollbar::-webkit-scrollbar-track {
-  background: var(--onyx);
+  background: var(--light-gray);
   border-radius: 5px;
 }
 
@@ -388,7 +388,7 @@ main {
 .info_more-btn:focus { background: var(--bg-gradient-dk-green); }
 
 .info_more-btn:hover::before,
-.info_more-btn:focus::before { background: var(--bg-gradient-dk-green); }
+.info_more-btn:focus::before { background: var(--bg-gradient-lt-green); }
 
 .info_more-btn span { display: none; }
 
@@ -684,7 +684,7 @@ main {
   position: absolute;
   top: 15px;
   right: 15px;
-  background: var(--onyx);
+  background: var(--white-1);
   border-radius: 8px;
   width: 32px;
   height: 32px;
