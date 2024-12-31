@@ -2,23 +2,22 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Victoria Asfalg
+Victoria Asfalg
+
 
 Show Contacts
 
 Email
-richard@example.com
+vasfalg@trincoll.edu
 
 Phone
-+1 (213) 352-2795
++1 (999) 999-9999
 
-Birthday
-June 23, 1982
+
 
 Location
-Sacramento, California, USA
+Hartford, CT, USA
 
 # navbar
 
