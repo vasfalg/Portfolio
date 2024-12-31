@@ -70,6 +70,7 @@
   --white-2: hsl(0, 0%, 98%);
   --off-white: hsl(46, 87%, 95%);
   --dark-green: hsl(120, 100%, 25%);
+  --green: hsl(120, 100%, 35%);
   --sage: hsl(100, 50%, 80%);
   --light-gray: hsl(0, 0%, 84%);
   --light-gray-70: hsla(0, 0%, 84%, 0.7);
@@ -238,7 +239,7 @@ article.active {
 
 .h3 { font-size: var(--fs-2); color: var(--dark-green)}
 
-.h4 { font-size: var(--fs-4); color: var(--sage)}
+.h4 { font-size: var(--fs-4); color: var(--green)}
 
 .h5 {
   font-size: var(--fs-7);
